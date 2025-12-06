@@ -74,5 +74,3 @@ namespace HypothesisTesting
         }
     }
 }
-
-// smol change
